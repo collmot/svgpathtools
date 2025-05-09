@@ -1,2 +1,2 @@
-include *.svg LICENSE*
+include LICENSE*
 recursive-include test *.svg

@@ -17,7 +17,7 @@ def read(relative_path):
         return f.read()
 
 
-setup(name='svgpathtools',
+setup(name='svgpathtools-lite',
       packages=['svgpathtools'],
       version=VERSION,
       description=('A collection of tools for manipulating and analyzing SVG '
